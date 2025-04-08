@@ -41,5 +41,6 @@ int main() {
 		break;
 	}
 	
+	printf("change\n");
 	return 0;
 }
